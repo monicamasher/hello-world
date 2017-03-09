@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+Hello crazy people, ready for some fun here!
